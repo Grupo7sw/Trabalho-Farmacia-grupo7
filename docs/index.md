@@ -27,9 +27,9 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
+* Caio Guilherme dos Santos Silva
+* Diogo Fassina Garcia
+* Francisco Losada Totaro
 * Aluno 4
 * Aluno 5
 * Aluno 6
@@ -37,12 +37,44 @@
 * Aluno 8
 
 
-# Descrição do Projeto
+# **1. Descrição do Projeto**
 
-*&lt;Introdução do projeto&gt;*
+Desenvolver um sistema de presenças para a escola INFINITO para acesso dos professores, tendo um acesso próprio para cada professor e que registra a chamada no ínicio das aulas e logo após o intervalo, gerando um relatório das faltas de cada aluno, podendo ser agrupado por data, ano de ensino, turma, etc. Além de enviar notificações para os responsáveis por excessor de faltas, contando com acessibilidade e acesso à partir da web.
 
-# Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+# **2. Análise de Requisito funcional e Não-funcional**
+
+- **Funcional**<br>
+Sistema de Login<br>
+Registro de aluno e turma<br>
+Atribuição de turma ao aluno<br>
+Acesso dos professores as turmas<br>
+Sistema de presença<br>
+Registro de faltas<br>
+Sistema de notificação automático por email<br>
+Acessibilidade<br>
+Responsividade<br>
+Registro/Leitura do email dos responsáveis<br>
+Relatório de faltas agrupados por:
+    1. Data
+    2. Ano de ensino
+    3. Turma
+    4. Professor
+    5. Disciplina
+    6. Aluno
+<br>
+
+- **Não-Funcional**<br>
+Garantir que informações pessoais sejam criptografadas<br>
+O sistema deve estar disponível 99,99% do tempo (alta disponibilidade)<br>
+O sistema deve ter um tempo de resposta inferior a 5 segundos<br>
+O sistema deve suportar o acesso simultâneo de todos os professores<br>
+O sistema deve ser capaz de processar 500 transações por segundo<br>
+O sistema precisa ter acesso a um banco de dados para permanência das informações<br>
+O sistema deve ser capaz de calcular a porcentagem de faltas dos alunos<br>
+O sistema deve ser capaz de detectar incongruências nos dados<br>
+O sistema deve ser capaz de disparar emails através da web
+
+
 
 # Diagrama de Atividades
 
