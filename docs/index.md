@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema de Gestão para a Farmácia Vida Saudável&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -37,6 +37,7 @@ Projeto Sistema de Gestão para a Farmácia Vida Saudável
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 Requisitos Funcionais:  
+
 1.Cadastro de Produtos e Medicamentos O sistema deve permitir o cadastro de medicamentos e produtos com nome, descrição, fabricante, lote, data de validade e quantidade em estoque. O sistema também deve permitir a inserção e atualização do preço de venda de cada produto. 
 
 2.Cadastro de Clientes O sistema deve permitir o cadastro de clientes com nome, CPF e telefone, armazenando o histórico de compra de cada cliente.
@@ -52,11 +53,14 @@ Requisitos Funcionais:
 Requisitos Não Funcionais: 
 1.Desempenho O sistema deve responder às consultas de produtos e processar vendas no menor tempo possível 
 
-2.Segurança -O sistema deve exigir autenticação para acessar funções administrativas. -O sistema deve registrar todos os acessos realizados -O sistema deve garantir que os dados de usuário sejam armazenados de forma segura com criptografia.  
+2.Segurança -O sistema deve exigir autenticação para acessar funções administrativas. 
+-O sistema deve registrar todos os acessos realizados 
+-O sistema deve garantir que os dados de usuário sejam armazenados de forma segura com criptografia.  
 
 3.Disponibilidade O sistema deve estar disponível durante todo o período comercial e realizar backup periódico para salvar dados e informações. 
 
-4.Redimensionamento -O sistema precisa ser capaz de expandir a base de dados sem comprometer o desempenho. -O sistema deve possibilitar a inclusão de novos produtos e usuários sem precisar de um reajuste. 
+4.Redimensionamento -O sistema precisa ser capaz de expandir a base de dados sem comprometer o desempenho. 
+-O sistema deve possibilitar a inclusão de novos produtos e usuários sem precisar de um reajuste. 
 
 # Diagrama de Atividades
 
