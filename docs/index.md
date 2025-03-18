@@ -33,7 +33,7 @@
 
 # Descrição do Projeto
 
-Projeto Sistema de Gestão para a Farmácia Vida Saudável
+A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informatizado para otimizar vendas, estoque e atendimento, garantindo mais eficiência e precisão.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 **Requisitos Funcionais:**
