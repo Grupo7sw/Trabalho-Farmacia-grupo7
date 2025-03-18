@@ -1,12 +1,6 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 
-
-# Template para Disciplina de Engenharia de Software
-
-
-
-
-# Projeto: *Projeto UML*
+# Projeto: *Projeto Sistema de Gestão para a Farmácia Vida Saudável*
 
 # Grupo: *Grupo7sw*
 
