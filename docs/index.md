@@ -53,11 +53,7 @@ A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informati
    O sistema deve gerar relatórios de vendas diárias, semanais e mensais. O sistema também deve gerar relatório dos produtos mais vendidos e dos clientes mais frequentes.
 
 5. **Pagamento**
-   O sistema deve iestar integrado com um sistema de pagamento para processar cartões de crédito, débito e transferências via pix.
-   
-
-6. **Autenticação e Controle de Acesso**  
-   O sistema deve permitir a criação de perfis de atendente e administrador, onde os atendentes podem realizar vendas e consulta de estoque, e os administradores podem cadastrar produtos, gerar relatórios e visualizar o histórico completo.  
+   O sistema deve iestar integrado com um sistema de pagamento para processar cartões de crédito, débito e transferências via pix. 
 
 ---
 
