@@ -50,7 +50,9 @@ A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informati
    O sistema deve gerar relatórios de vendas diárias, semanais e mensais, o sistema também deve gerar relatório dos produtos mais vendidos e dos clientes mais frequentes.
 6. **Autenticação e Controle de Acesso**
    O sistema deve permitir a criação de perfis de atendente e administrador, onde os atendentes podem realizar vendas e consulta de estoque, e os administradores podem cadastrar produtos, gerar relatórios e visualizar o histórico completo.
+   
 **Requisitos Não Funcionais:**
+
 1. **Desempenho**
    O sistema deve responder às consultas de produtos e processar vendas no menor tempo possível
 2. **Segurança**
