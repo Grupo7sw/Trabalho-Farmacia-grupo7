@@ -38,47 +38,30 @@ A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informati
 # Análise de Requisitos Funcionais e Não-Funcionais
 **Requisitos Funcionais:**
 
-1. **Cadastro**  
-   O sistema deve permitir o cadastro de medicamentos e produtos com nome, descrição, fabricante, lote, data de validade e quantidade em estoque. O sistema também deve permitir a inserção e atualização do preço de venda de cada produto.  
-   O sistema deve permitir o cadastro de clientes com nome, CPF e telefone, armazenando o histórico de compra de cada cliente.  
-
-2. **Vendas**  
-   O sistema deve permitir a visualização dos produtos em estoque e o registro de vendas vinculadas a clientes. Depois de finalizar uma venda, o sistema emitirá automaticamente um cupom fiscal e atualizará o inventário, assegurando que as informações estejam constantemente atualizadas.  
-
-3. **Estoque**  
+1. **Cadastro de Produtos e Medicamentos**
+   O sistema deve permitir o cadastro de medicamentos e produtos com nome, descrição, fabricante, lote, data de validade e quantidade em estoque. O sistema também deve permitir a inserção e atualização do preço de venda de cada produto.
+2. **Cadastro de Clientes**
+   O sistema deve permitir o cadastro de clientes com nome, CPF e telefone, armazenando o histórico de compra de cada cliente.
+3. **Processo de Venda**
+   O sistema deve permitir a visualização dos produtos em estoque e o registro de vendas vinculadas a clientes. Depois de finalizar uma venda, o sistema emitirá automaticamente um cupom fiscal e atualizará o inventário, assegurando que as informações estejam constantemente atualizadas.
+4. **Controle de Estoque**
    O sistema deve manter a quantidade de produtos no estoque atualizada após cada venda e emitir alertas para itens com estoque baixo.
-   O sistema deve emitir alertas para produtos próximos da data de validade.
-
-4. **Relatório**  
-   O sistema deve gerar relatórios de vendas diárias, semanais e mensais. O sistema também deve gerar relatório dos produtos mais vendidos e dos clientes mais frequentes.
-
-5. **Pagamento**
-   O sistema deve iestar integrado com um sistema de pagamento para processar cartões de crédito, débito e transferências via pix. 
-
----
-
+5. **Relatórios Gerenciais**
+   O sistema deve gerar relatórios de vendas diárias, semanais e mensais, o sistema também deve gerar relatório dos produtos mais vendidos e dos clientes mais frequentes.
+6. **Autenticação e Controle de Acesso**
+   O sistema deve permitir a criação de perfis de atendente e administrador, onde os atendentes podem realizar vendas e consulta de estoque, e os administradores podem cadastrar produtos, gerar relatórios e visualizar o histórico completo.
 **Requisitos Não Funcionais:**
-
-1. **Desempenho**  
-   O sistema deve responder às consultas de produtos e processar vendas no menor tempo possível.  
-
-2. **Segurança**  
-   - O sistema deve exigir autenticação para acessar funções administrativas.  
-   - O sistema deve registrar todos os acessos realizados.  
-   - O sistema deve garantir que os dados de usuário sejam armazenados de forma segura com criptografia.  
-
-3. **Disponibilidade**  
-   O sistema deve estar disponível durante todo o período comercial e realizar backup periódico para salvar dados e informações.  
-
-4. **Redimensionamento**  
-   - O sistema precisa ser capaz de expandir a base de dados sem comprometer o desempenho.  
-   - O sistema deve possibilitar a inclusão de novos produtos e usuários sem precisar de um reajuste.
-
-5. **Acessibilidade**
-   O sistema deve ser acessível via navegador website e aplicativo móvel. 
-
-6. **Usabilidade**
-   A interface do usuário deve ser intuitiva e responsiva, adaptando-se a diferentes dispositivos.
+1. **Desempenho**
+   O sistema deve responder às consultas de produtos e processar vendas no menor tempo possível
+2. **Segurança**
+   -O sistema deve exigir autenticação para acessar funções administrativas.
+   -O sistema deve registrar todos os acessos realizados
+   -O sistema deve garantir que os dados de usuário sejam armazenados de forma segura com criptografia.
+3. **Disponibilidade**
+    O sistema deve estar disponível durante todo o período comercial e realizar backup periódico para salvar dados e informações.
+4. **Redimensionamento**
+    -O sistema precisa ser capaz de expandir a base de dados sem comprometer o desempenho.
+    -O sistema deve possibilitar a inclusão de novos produtos e usuários sem precisar de um reajuste. 
 
 # Diagrama de Atividades
 
