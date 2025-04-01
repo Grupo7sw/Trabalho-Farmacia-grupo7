@@ -82,7 +82,7 @@ A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informati
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+("C:\Users\recup\OneDrive\Documentos\DiagramaATV.jpg")
 
 # Diagrama de Casos de Uso
 
