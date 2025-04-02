@@ -80,7 +80,8 @@ A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informati
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/user-attachments/assets/d03bd69b-0fa1-4104-a047-232d9e99787d)
+
 
 # Descrição dos Casos de Uso
 
