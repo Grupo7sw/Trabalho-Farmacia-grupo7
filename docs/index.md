@@ -85,8 +85,28 @@ A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informati
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+**Atores**
 
+1.Usuário (generalização)
+Representa um ator genérico do sistema, podendo ser um Admin, Cliente ou Gerente.
+
+2.Admin
+Responsável por gerenciar aspectos administrativos e de segurança do sistema.
+
+3.Cliente
+Usuário final que realiza compras no sistema.
+
+4.Gerente
+Responsável por atividades operacionais e gerenciais, como cadastro de produtos, gestão de clientes e vendas.
+
+**Casos de uso**
+
+*Admin*
+Autenticação e controle de acesso
+Permite ao Admin gerenciar o login e as permissões de usuários no sistema.
+
+Gerar Relatórios
+Possibilita ao Admin extrair dados do sistema em formato de relatórios para análise.
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
