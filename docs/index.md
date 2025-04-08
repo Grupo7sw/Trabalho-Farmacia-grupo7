@@ -102,30 +102,33 @@ Responsável por atividades operacionais e gerenciais, como cadastro de produtos
 **Casos de uso**
 
 **Admin**
+
 Autenticação e controle de acesso
 Permite ao Admin gerenciar o login e as permissões de usuários no sistema.
 
 **Cliente**
+
 Registrar compras
 O cliente pode registrar suas compras no sistema.
 
 <<include>> Atualizar estoque: Cada compra registrada resulta na atualização automática do estoque.
 
 **Gerente**
-Cadastrar produtos e medicamentos
+
+-Cadastrar produtos e medicamentos
 Permite ao gerente inserir novos produtos ou medicamentos no sistema.
 
-Gerenciar clientes
+-Gerenciar clientes
 Possibilita ao gerente alterar ou atualizar informações dos clientes.
 
-Registrar vendas
+-Registrar vendas
 O gerente pode registrar vendas realizadas.
 
 <<extend>> Emitir nota fiscal: Opcionalmente, o sistema pode emitir uma nota fiscal ao registrar uma venda.
 
 <<include>> Atualizar estoque: A venda resulta na atualização do estoque.
 
-Gerar Relatórios
+-Gerar Relatórios
 Possibilita ao Admin extrair dados do sistema em formato de relatórios para análise.
 
 # Diagrama de Sequência
