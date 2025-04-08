@@ -88,15 +88,19 @@ A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informati
 **Atores**
 
 1. Usuário (generalização)
+
 Representa um ator genérico do sistema, podendo ser um Admin, Cliente ou Gerente.
 
 2. Admin
+
 Responsável por gerenciar aspectos administrativos e de segurança do sistema.
 
 3. Cliente
+   
 Usuário final que realiza compras no sistema.
 
 4. Gerente
+   
 Responsável por atividades operacionais e gerenciais, como cadastro de produtos, gestão de clientes e vendas.
 
 **Casos de uso**
@@ -105,37 +109,37 @@ Responsável por atividades operacionais e gerenciais, como cadastro de produtos
 
 **Autenticação e controle de acesso:**
 
-Permite ao Admin gerenciar o login e as permissões de usuários no sistema.
+   Permite ao Admin gerenciar o login e as permissões de usuários no sistema.
 
 **Cliente**
 
 **Registrar compras:**
 
-O cliente pode registrar suas compras no sistema.
+   O cliente pode registrar suas compras no sistema.
 
-<<include>> Atualizar estoque: Cada compra registrada resulta na atualização automática do estoque.
+   <<include>> Atualizar estoque: Cada compra registrada resulta na atualização automática do estoque.
 
 **Gerente**
 
 **-Cadastrar produtos e medicamentos**
 
-Permite ao gerente inserir novos produtos ou medicamentos no sistema.
+   Permite ao gerente inserir novos produtos ou medicamentos no sistema.
 
 **-Gerenciar clientes**
 
-Possibilita ao gerente alterar ou atualizar informações dos clientes.
+   Possibilita ao gerente alterar ou atualizar informações dos clientes.
 
 **-Registrar vendas**
 
-O gerente pode registrar vendas realizadas.
+   O gerente pode registrar vendas realizadas.
 
-<<extend>> Emitir nota fiscal: Opcionalmente, o sistema pode emitir uma nota fiscal ao registrar uma venda.
+   <<extend>> Emitir nota fiscal: Opcionalmente, o sistema pode emitir uma nota fiscal ao registrar uma venda.
 
-<<include>> Atualizar estoque: A venda resulta na atualização do estoque.
+   <<include>> Atualizar estoque: A venda resulta na atualização do estoque.
 
 **-Gerar Relatórios**
 
-Possibilita ao Admin extrair dados do sistema em formato de relatórios para análise.
+   Possibilita ao Admin extrair dados do sistema em formato de relatórios para análise.
 
 # Diagrama de Sequência
 
