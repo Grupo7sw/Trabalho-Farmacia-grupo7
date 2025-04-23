@@ -63,8 +63,11 @@ A Farmácia Vida Saudável busca modernizar sua gestão com um sistema informati
    
 2. **Segurança**
    O sistema deve exigir autenticação para acessar funções administrativas.
+   
    O sistema deve registrar todos os acessos realizados
+   
    O sistema deve garantir que os dados de usuário sejam armazenados de forma segura com criptografia.
+   
    O sistema deve estar sempre atualizado na versão mais recente.
    
 4. **Disponibilidade**
