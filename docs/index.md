@@ -147,7 +147,7 @@ Responsável por atividades operacionais e gerenciais, como cadastro de produtos
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Diagrama de Sequência drawio](https://github.com/user-attachments/assets/dcec6632-e37c-4d88-8b4d-841d63376a89)
 
 # Diagrama de Classes
 
