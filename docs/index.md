@@ -151,7 +151,8 @@ Responsável por atividades operacionais e gerenciais, como cadastro de produtos
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![diagrama classe](https://github.com/user-attachments/assets/1d3cf075-9ec9-48cb-9aa3-dc54b06ac975)
+
 
 # Diagrama de Estados
 
