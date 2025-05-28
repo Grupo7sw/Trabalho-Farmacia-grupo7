@@ -156,7 +156,8 @@ Responsável por atividades operacionais e gerenciais, como cadastro de produtos
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/user-attachments/assets/86430626-42ef-43f4-b452-3a86cfd34a44)
+
 
 # Diagrama de Implantação
 
