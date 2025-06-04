@@ -161,8 +161,11 @@ Responsável por atividades operacionais e gerenciais, como cadastro de produtos
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![diagrama - implementação](https://github.com/user-attachments/assets/fc449ff9-09b6-4a9f-8b48-1dd56868e66a)
+
+
 
 # Referências
-
-*&lt;Lista de referências&gt;*
+OWASP - https://owasp.org/Top10/pt_BR/
+Lucidchart - https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml
+Material complementar visto em sala
