@@ -27,9 +27,9 @@
 
 # Autores
 
-* CAIO YUKIO YAZAWA - 10418604  
+* CAIO YUKIO YAZAWA - 10418604
+* GABRIEL FREITAS DE MIRANDA CORREA - 10425934 
 * GIOVANE ZERBINATO DE JESUS - 10417013 
-* GABRIEL FREITAS DE MIRANDA CORREA - 10425934
 
 # Descrição do Projeto
 
@@ -166,6 +166,9 @@ Responsável por atividades operacionais e gerenciais, como cadastro de produtos
 
 
 # Referências
+
 OWASP - https://owasp.org/Top10/pt_BR/
+
 Lucidchart - https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml
+
 Material complementar visto em sala
